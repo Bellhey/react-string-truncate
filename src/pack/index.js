@@ -4,4 +4,4 @@
  * date 2018-08-01
  */
 
-export { default } from '../components/ProductMenuButton';
+export { default } from '../components/StringTruncate';

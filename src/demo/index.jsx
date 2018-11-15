@@ -99,7 +99,7 @@ export default class Demo extends Component {
           <Layout
             style={{ display: 'block', padding: '10px', width: '100%', background: '#fff' }}
           >
-            {/* 产品菜单按钮组件 */}
+            {/* 文本截取组件 */}
             <StringTruncate maxHeight={60}>
               这是一个根据最大高度或者最大宽度进行文本截取的工具，可以自定义省略符号。
               这是一个根据最大高度或者最大宽度进行文本截取的工具，可以自定义省略符号。

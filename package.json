@@ -1,6 +1,6 @@
 {
   "name": "react-string-truncate",
-  "version": "1.0.0",
+  "version": "1.0.0-rc.1",
   "private": false,
   "author": {
     "name": "Bellhey",
@@ -128,5 +128,11 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "proxy": "http://rap2api.taobao.org/app/mock/12201/"
+  "keywords": [
+    "[truncate",
+    "react-truncate",
+    "ellipsis",
+    "react-ellipsis]"
+  ],
+  "license": "MIT"
 }
