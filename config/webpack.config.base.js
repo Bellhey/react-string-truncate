@@ -167,7 +167,7 @@ module.exports = {
   },
   // 插件
   plugins: [
-    // new BundleAnalyzerPlugin(),
+    //new BundleAnalyzerPlugin(),
     new webpack.optimize.ModuleConcatenationPlugin(),
     new webpack.DefinePlugin({
       'process.env.VERSION': `'${package.version}'`,
